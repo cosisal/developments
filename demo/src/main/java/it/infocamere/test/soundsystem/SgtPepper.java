@@ -10,7 +10,7 @@ public class SgtPepper implements CompactDisc {
 	
 	@Override
 	public void play() {
-		System.out.println("Provo a suonare un pezzo "+titolo+" by "+autore);
+		System.out.println("Provo a suonare un brano "+titolo+" by "+autore);
 
 	}
 
